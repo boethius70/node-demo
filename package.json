@@ -1,9 +1,13 @@
 {
   "name": "node-demo",
-  "description":"Very simple NodeJS Hello World App",
+  "description": "Very simple NodeJS Hello World App",
   "version": "1.0.0",
-  "author":"Jim Antoniou",
+  "author": "Jim Antoniou",
   "scripts": {
-     "test": "./node_modules/.bin/mocha **/*.spec.js"
+    "test": "./node_modules/.bin/mocha **/*.spec.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
   }
 }

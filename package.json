@@ -1,0 +1,9 @@
+{
+  "name": "node-demo",
+  "description":"Very simple NodeJS Hello World App",
+  "version": "1.0.0",
+  "author":"Jim Antoniou",
+  "scripts": {
+     "test": "./node_modules/.bin/mocha **/*.spec.js"
+  }
+}

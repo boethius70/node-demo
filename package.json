@@ -7,7 +7,7 @@
     "test": "./node_modules/.bin/mocha **/*.spec.js"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.2.1",
     "mocha": "^7.1.2"
   }
 }
